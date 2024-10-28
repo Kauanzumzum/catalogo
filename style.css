@@ -1,3 +1,9 @@
 body{
-    background-color: cadetblue
-;}
+    background-color: cadetblue;
+    margin:0px;
+    
+}
+header{
+
+  border-bottom:solid 2px rgb(100, 403, 139);
+}
